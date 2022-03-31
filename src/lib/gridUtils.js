@@ -2,7 +2,6 @@ export class ScheduleView {
     constructor() {
         this.grids = [];
         this.idCtr = 0;
-        // this.labels = ["👾", "🤖", "👽", "👟", "🍑", "💩", "🍆"];
         this.labels = ["🐙", "🐦", "👽", "👟", "🐶", "🏀", "🗿", "👾"];
         this.colorPool = [
             "color-1", "color-2", "color-3", "color-4", "color-5", "color-6",

@@ -1,24 +1,15 @@
 # componente-horarios
 
-## Project setup
+## Descripción
+
+Componente en vue para el programa de creación de horarios.
+
+## Inicialización 
 ```
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+### Desarrollo
 ```
 yarn serve
 ```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
